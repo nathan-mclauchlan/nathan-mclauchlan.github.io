@@ -1,0 +1,50 @@
+body
+{background: linear-gradient(90deg, rgb(0, 153, 255), rgb(1, 16, 61));
+text-align: center;}
+
+#titles
+{font-size: 50pt;
+font-family: 'Sacramento';
+color: red;}
+
+#headings
+{font-size: 30pt;
+font-family: 'Kaushan Script', cursive;
+color: white;}
+
+#subheadings
+{font-size: 25pt;
+font-family: 'Kaushan Script', cursive;
+color:greenyellow
+}
+
+.home
+{font-size: 20pt;
+font-family: 'Kaushan Script', cursive;
+color: white;
+text-align: center !important;
+}
+
+.button:hover 
+{color:red;}
+
+.button
+{font-size: 25pt;
+font-family: 'Sacramento';
+color: white;}
+
+p
+{font-size: 15pt;
+font-family: 'Kaushan Script', cursive;
+color: white;
+text-align: left;
+}
+
+a
+{font-size: 30pt;
+font-family: 'Kaushan Script', cursive;
+color:yellow;
+}
+
+.center
+{text-align:center}
